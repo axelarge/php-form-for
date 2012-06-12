@@ -1,0 +1,18 @@
+{
+    "hash": "91bbcff612043b6bb76bbd904f8c42d3",
+    "packages": [
+        {
+            "package": "axelarge/html-helpers",
+            "version": "dev-master",
+            "source-reference": "af7af8d34f3efc3ba204401dadca600c8122ae38"
+        }
+    ],
+    "packages-dev": null,
+    "aliases": [
+
+    ],
+    "minimum-stability": "dev",
+    "stability-flags": [
+
+    ]
+}
